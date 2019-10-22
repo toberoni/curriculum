@@ -382,6 +382,7 @@ Submit a link below to this [file](https://github.com/TheOdinProject/curriculum/
 * [Jay Conner's Solution](https://github.com/cleve703/ruby/blob/master/bubble_sort_both.rb)
 * [Adriel Bruno's Solution](https://github.com/AdrielTrigger/Adv_Ruby_Building_Blocks/blob/master/bubble_sort.rb)
 * [David Watkin's Solution](https://github.com/DavidWatkinCode/the_odin_project/blob/master/ruby/ruby_programming/bubble_sort.rb)
+* [Toberoni's Solution](https://github.com/toberoni/the_odin_project/blob/master/ruby_programming/bubble_sort.rb)
 </details>
 
 ### Project 2: Enumerable Methods
@@ -729,6 +730,7 @@ Submit a link below to this [file](https://github.com/TheOdinProject/curriculum/
 * [Gareth Woodman's Solution](https://github.com/GarethWoodman/RubyBuildingBlocks/blob/master/enumerable.rb)
 * [Adriel Bruno's Solution](https://github.com/AdrielTrigger/Adv_Ruby_Building_Blocks/blob/master/my_methods.rb)
 * [Tolulope Olusakin's Solution - Enumerable Module Methods](https://github.com/Oluwadamilareolusakin/ruby-enumerable-module-replica/tree/development)
+* [Toberoni's Solution](https://github.com/toberoni/the_odin_project/blob/master/ruby_programming/enumerable.rb)
 </details>
 
 ### Additional Resources
